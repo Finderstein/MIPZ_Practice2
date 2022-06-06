@@ -8,5 +8,8 @@ After that you can simply do the following:
 
 ```
 npm i
-npm start D:\TMP\Practice2\libraries\angular\packages\compiler-cli\index.ts
+npm start <full path to the index.ts of package>
 ```
+After cloning angular repo <full path to the index.ts of package> can be something like D:\Practice2\libraries\angular\packages\compiler-cli\index.ts
+  
+As you can see, we analyze not angular as a whole, but only angular compiler-cli.
