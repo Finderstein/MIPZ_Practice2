@@ -1,0 +1,1 @@
+```npm start D:\TMP\Practice2\libraries\angular\packages\compiler-cli\index.ts```
